@@ -1,4 +1,5 @@
 %Homework 1...Updating using 2013 Data
+%%%%%% NOT COMPLETE %%%%%%%
 Earn=WAGEINC+0.863*BUSSEFARMINC;
 
 Income=WAGEINC+TRANSFOTHINC+SSRETINC+KGINC+INTDIVINC+BUSSEFARMINC;
@@ -43,4 +44,5 @@ c=1;
 while Earn1(c)<wmean(Earn,WGT)
     c=c+1
 end
+%%%%%% NOT COMPLETE %%%%%%%
 
